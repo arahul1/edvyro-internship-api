@@ -1,0 +1,53 @@
+
+[
+  {
+    "role": "Frontend Developer Intern",
+    "company": "PixelCraft Labs",
+    "domain": "Web Development",
+    "location": "Remote",
+    "stipend": "10000 INR/month",
+    "duration": "3 months",
+    "description": "Build responsive web interfaces and practice frontend development.",
+    "applyUrl": "https://example.com/apply/1"
+  },
+  {
+    "role": "AI/ML Intern",
+    "company": "NeuralNest",
+    "domain": "AI/ML",
+    "location": "Hyderabad",
+    "stipend": "15000 INR/month",
+    "duration": "6 months",
+    "description": "Experiment with machine learning models and AI datasets.",
+    "applyUrl": "https://example.com/apply/2"
+  },
+  {
+    "role": "Data Science Intern",
+    "company": "Insight Analytics",
+    "domain": "Data Science",
+    "location": "Remote",
+    "stipend": "12000 INR/month",
+    "duration": "4 months",
+    "description": "Analyze datasets and communicate findings using visualizations.",
+    "applyUrl": "https://example.com/apply/3"
+  },
+  {
+    "role": "Cybersecurity Intern",
+    "company": "SecureByte",
+    "domain": "Cybersecurity",
+    "location": "Bengaluru",
+    "stipend": "18000 INR/month",
+    "duration": "3 months",
+    "description": "Learn defensive security practices and identify common vulnerabilities.",
+    "applyUrl": "https://example.com/apply/4"
+  },
+  {
+    "role": "UI/UX Design Intern",
+    "company": "DesignOrbit",
+    "domain": "UI/UX Design",
+    "location": "Hyderabad",
+    "stipend": "8000 INR/month",
+    "duration": "3 months",
+    "description": "Create wireframes and design intuitive digital user experiences.",
+    "applyUrl": "https://example.com/apply/5"
+  }
+]
